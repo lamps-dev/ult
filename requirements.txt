@@ -1,5 +1,4 @@
 requests>=2.25.1
-math
 numpy
 pytest
 subprocess
