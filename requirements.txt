@@ -1,0 +1,9 @@
+requests>=2.25.1
+utlb>=0.0.0
+math
+numpy
+pytest
+subprocess
+gputil
+py-cpuinfo
+psutil
